@@ -1,6 +1,6 @@
 <?php
 // Hostname for your URL shortener
-$hostname = 'http://example.com';
+$hostname = 'https://masc.biz';
 
 // PDO connection to the database
 $connection = new PDO('mysql:dbname=shorty;host=localhost', 'user', 'password');
